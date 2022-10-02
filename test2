@@ -1,0 +1,17 @@
+"info": {
+    "poster": "https://dl.dropbox.com/s/w49xue4hmece1vq/part2.png?dl=0",
+    "bg": "https://dl.dropbox.com/s/w49xue4hmece1vq/part2.png?dl=0",
+    "plot": "Something happens...",
+    "cast": [ "John Dow" , "Jane Dow" ],
+    "director": [ "Mr. Smith" ],
+    "country": [ "Zimbabve" ],
+    "rating": "5.5",
+    "year": 2019,
+    "genre": [ "drama", "history" ],
+    "added": 12354235,
+    "duration": 3600,
+    "adult": true,
+    "trailer": "HGH34ghgAU",
+    "backdrop": "https://dl.dropbox.com/s/w49xue4hmece1vq/part2.png?dl=0",
+    "ttl": 12354235
+}
